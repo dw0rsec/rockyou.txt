@@ -1,0 +1,3 @@
+# rockyou.txt
+
+This repository contains the popular rockyou.txt wordlist. This file is a widely-used resource in the cybersecurity community, especially for Capture The Flag (CTF) challenges and penetration testing exercises. Originally leaked by a large-scale data breach of the company RockYou in 2009 , the rockyou.txt file contains millions of common passwords, making it an essential tool for password cracking and security testing.
